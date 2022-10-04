@@ -1,6 +1,7 @@
 #photoHeader {
   height: 426px;
   background-color: black;
+  background-size: cover!important;
 }
 #photoHeader > div {
   color: white;
